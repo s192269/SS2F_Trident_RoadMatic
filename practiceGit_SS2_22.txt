@@ -11,7 +11,8 @@
 アイウ
 
 ●Bさん
-ABC
+ABCDE
+abcde
 
 ●Cさん
 123
