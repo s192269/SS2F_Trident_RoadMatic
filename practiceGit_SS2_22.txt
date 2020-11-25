@@ -12,7 +12,8 @@
 カキクケコ
 
 ●Bさん
-ABC
+ABCDE
+abcde
 
 ●Cさん
 12345
